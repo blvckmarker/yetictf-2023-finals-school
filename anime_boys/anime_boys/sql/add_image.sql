@@ -1,1 +1,0 @@
-UPDATE UserT SET image = %(image_data)s WHERE UserT._user = %(user_id)s

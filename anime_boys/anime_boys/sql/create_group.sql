@@ -1,1 +1,0 @@
-INSERT INTO GroupT (Name, Description, IsPublic, Creator_) VALUES(%(name)s, %(description)s, %(isPublic)s, %(creator)s)

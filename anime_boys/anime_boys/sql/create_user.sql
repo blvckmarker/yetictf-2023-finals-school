@@ -1,1 +1,0 @@
-INSERT INTO UserT (Nickname, Password, IsVip, image) VALUES(%(inputName)s, %(inputPassword)s, False, %(image)s)
